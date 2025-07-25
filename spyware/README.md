@@ -1,7 +1,7 @@
 # spyware
 
 proof-of-concept
-spyware that sends files to a remote server. 
+spyware that sends the files in a folder that you entered to a remote server. 
 
 it uses argparse to get the server and the ssh password you send to.
 
